@@ -1,0 +1,23 @@
+{
+  "name": "eslint-config-claire",
+  "private": true,
+  "description": "JavaScript eslint styles for the Clarity Hub World",
+  "version": "1.0.0",
+  "license": "UNLICENSED",
+  "author": "Clarity Hub, Inc",
+  "bugs": {
+    "url": "https://gitlab.com/clairvoyance/eslint-config-claire/issues"
+  },
+  "homepage": "https://gitlab.com/clairvoyance/eslint-config-claire",
+  "keywords": [
+    "JavaScript Standard Style",
+    "check",
+    "checker",
+    "style"
+  ],
+  "license": "UNLICENSED",
+  "main": "index.js",
+  "peerDependencies": {
+    "eslint": ">=3.0.0"
+  }
+}
